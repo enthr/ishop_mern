@@ -4,7 +4,7 @@
 	"description": "iShop Backend",
 	"main": "server.js",
 	"author": "Jaimin Prajapati",
-	"license": "ISC",
+	"license": "MIT",
 	"type": "module",
 	"scripts": {
 		"start": "node backend/server",
