@@ -1,2 +1,2 @@
-# ishop_mern
+# MERN Shop
 A MERN Stack E-Commerce App
